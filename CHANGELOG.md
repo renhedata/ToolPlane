@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.22.0](https://github.com/renhedata/ToolPlane/releases/tag/v0.22.0) (2026-08-18)
+
+**Full Changelog**: https://github.com/renhedata/ToolPlane/compare/v0.1.6...v0.22.0
+
 ## [0.8.0](https://github.com/asharca/ToolPlane/compare/toolplane-v0.7.0...toolplane-v0.8.0) (2026-07-14)
 
 
